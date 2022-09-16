@@ -7,6 +7,7 @@ public class HelloWorld {
         System.out.println("Welcome to KNOF 2022");
         System.out.println("Zeile 3");
         System.out.println("Zeile 4"); //STRG + D - fügt die obere Zeile neu ein
+        System.out.println("Zeile 5"); //STRG + D - fügt die obere Zeile neu ein
 
     }
 }
